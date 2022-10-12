@@ -1,6 +1,6 @@
 ## Job Application's Status Tracker
 ----
-**Description**
+**Description** <br>
 This is a Full Stack (MERN) Job Portal Application built with 
 - React for Front End
 - Redux-Thunk for Asynchronous operations
