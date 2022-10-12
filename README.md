@@ -13,6 +13,6 @@ This is a Full Stack (MERN) Job Portal Application built with
 
  [Live](https://j0bs.herokuapp.com/login)
  ----
- **For Trail:**
+ **To Try Without Regestration:**
  - Username: test
  - Password: Password
