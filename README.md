@@ -1,5 +1,9 @@
 ## Job Application's Status Tracker
-
-*Objective:* To trace out the status of applied job application.
-*Technologies:* MERN Stack
-
+**Description**
+-This is a Full Stack (MERN) Job Portal Application built with 
+    -React for Front End
+    -Redux-Thunk for Asynchronous operations
+    -Node JS for Runtime
+    -Express JS for Backend Routing
+    -Mongo DB for Database
+ 
