@@ -9,3 +9,5 @@ This is a Full Stack (MERN) Job Portal Application built with
 - Mongo DB for Database
  
  [Live](https://j0bs.herokuapp.com/login)
+ ![image](https://user-images.githubusercontent.com/70936174/195436362-80b8a1ae-48ab-4547-b622-863262e3ee74.png)
+-----------
