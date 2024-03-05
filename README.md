@@ -16,5 +16,6 @@ This is a Full Stack (MERN) Job Portal Application built with
  **To Try Without Registration:**
  - Username: test
  - Password: Password
+   
 -----------
 #### To know more about this project, kindly read [Wiki](https://github.com/im-kaushal/JobTracker/wiki)
